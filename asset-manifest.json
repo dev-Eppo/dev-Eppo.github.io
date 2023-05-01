@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.42662c08.js",
+    "main.css": "/static/css/main.d09c2b7d.css",
+    "main.js": "/static/js/main.1f1b3df1.js",
+    "static/media/GPZ_video_tape_normal.otf": "/static/media/GPZ_video_tape_normal.72710dda16743cff9d4f.otf",
     "index.html": "/index.html",
-    "main.42662c08.js.map": "/static/js/main.42662c08.js.map"
+    "main.d09c2b7d.css.map": "/static/css/main.d09c2b7d.css.map",
+    "main.1f1b3df1.js.map": "/static/js/main.1f1b3df1.js.map"
   },
   "entrypoints": [
-    "static/js/main.42662c08.js"
+    "static/css/main.d09c2b7d.css",
+    "static/js/main.1f1b3df1.js"
   ]
 }
